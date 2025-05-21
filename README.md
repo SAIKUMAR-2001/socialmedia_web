@@ -1,10 +1,9 @@
 📸 Instagram Clone (Django)
 Instgra is a full-featured social media web application inspired by Instagram. Built with Django, this platform allows users to create accounts, manage friends, share posts, comment, and like content seamlessly. 🌐💬📷
-## ---
-
+---
 
 ## ✨ Features
----
+
 - 🔐 User Authentication: Register, login, logout, and forgot password functionality using Django's built-in authentication system.
 
 - 👤 Profile Management: Users can create and update their profiles.
@@ -22,7 +21,7 @@ Instgra is a full-featured social media web application inspired by Instagram. B
 ---
 
 ## 🛠️ Technologies Used
----
+
 - 🔙 Backend: Django (Python)
 
 - 🎨 Frontend: HTML5, CSS3, JavaScript
@@ -32,7 +31,7 @@ Instgra is a full-featured social media web application inspired by Instagram. B
 ---
 
 ## 🔐 Forgot Password Feature
----
+
 Users can now reset their password using the "Forgot Password" option available on the login page.
 
 - An email with a reset link will be sent to the registered address. 📧
@@ -44,7 +43,7 @@ Users can now reset their password using the "Forgot Password" option available 
 ---
 
 ## ⚙️ Installation and Setup
----
+
 1. 📥 Clone the repository:
 git clone https://github.com/yourusername/instgra.git
 cd instgra
@@ -67,7 +66,7 @@ python manage.py runserver
 ---
 
 ## 📲 Usage
----
+
 - 📝 Sign up for a new account or log in if you already have one.
 
 - ❓ Forgot your password? Use the password reset link to regain access.
