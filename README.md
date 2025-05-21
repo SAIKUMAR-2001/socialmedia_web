@@ -1,5 +1,6 @@
-📸 Instagram Clone (Django)
-Instgra is a full-featured social media web application inspired by Instagram. Built with Django, this platform allows users to create accounts, manage friends, share posts, comment, and like content seamlessly. 🌐💬📷
+## 📸 Instagram Clone (Django)
+
+Instagram is a full-featured social media web application inspired by Instagram. Built with Django, this platform allows users to create accounts, manage friends, share posts, comment, and like content seamlessly. 🌐💬📷
 ---
 
 ## ✨ Features
