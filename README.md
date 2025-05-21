@@ -1,8 +1,10 @@
 📸 Instagram Clone (Django)
 Instgra is a full-featured social media web application inspired by Instagram. Built with Django, this platform allows users to create accounts, manage friends, share posts, comment, and like content seamlessly. 🌐💬📷
----
+## ---
 
-##✨ Features
+
+## ✨ Features
+---
 - 🔐 User Authentication: Register, login, logout, and forgot password functionality using Django's built-in authentication system.
 
 - 👤 Profile Management: Users can create and update their profiles.
@@ -17,10 +19,10 @@ Instgra is a full-featured social media web application inspired by Instagram. B
 
 - 🗄️ Database: Utilizes Django’s inbuilt SQLite database for efficient data management.
 
-  ---
+---
 
-##🛠️ Technologies Used
-
+## 🛠️ Technologies Used
+---
 - 🔙 Backend: Django (Python)
 
 - 🎨 Frontend: HTML5, CSS3, JavaScript
@@ -29,19 +31,20 @@ Instgra is a full-featured social media web application inspired by Instagram. B
 
 ---
 
-  ##🔐 Forgot Password Feature
+## 🔐 Forgot Password Feature
+---
 Users can now reset their password using the "Forgot Password" option available on the login page.
 
 - An email with a reset link will be sent to the registered address. 📧
 
 - The link allows users to securely create a new password and regain access to their account. 🔁🔒
 
-##✅ Make sure to configure Django’s email backend (EMAIL_BACKEND, EMAIL_HOST, etc.) in settings.py for this to work correctly.
+## ✅ Make sure to configure Django’s email backend (EMAIL_BACKEND, EMAIL_HOST, etc.) in settings.py for this to work correctly.
 
 ---
 
-##⚙️ Installation and Setup
-
+## ⚙️ Installation and Setup
+---
 1. 📥 Clone the repository:
 git clone https://github.com/yourusername/instgra.git
 cd instgra
@@ -63,8 +66,8 @@ python manage.py runserver
 
 ---
 
-📲 Usage
-
+## 📲 Usage
+---
 - 📝 Sign up for a new account or log in if you already have one.
 
 - ❓ Forgot your password? Use the password reset link to regain access.
