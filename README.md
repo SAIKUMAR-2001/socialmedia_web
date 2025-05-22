@@ -21,6 +21,22 @@ Instagram is a full-featured social media web application inspired by Instagram.
 
 ---
 
+## 🖼️ Screenshots
+
+### 🔐 Login Page
+![Image](https://github.com/user-attachments/assets/3ed07674-3c3d-4575-b4cd-0faf7402ced9)
+
+### 📝 Sign Up Page
+![Image](https://github.com/user-attachments/assets/ed831dc4-f302-4621-96ec-6607677fc5d6)
+
+### ❓ Forgot Password Page
+![Image](https://github.com/user-attachments/assets/26d8c9fb-3187-4017-963c-f7ee1e940bb6)
+
+### 👤 Profile Page
+![Image](https://github.com/user-attachments/assets/347687e1-84e8-48bc-9f74-1e0e64dec91c)
+
+---
+
 ## 🛠️ Technologies Used
 
 - 🔙 Backend: Django (Python)
@@ -39,14 +55,14 @@ Users can now reset their password using the "Forgot Password" option available 
 
 - The link allows users to securely create a new password and regain access to their account. 🔁🔒
 
-## ✅ Make sure to configure Django’s email backend (EMAIL_BACKEND, EMAIL_HOST, etc.) in settings.py for this to work correctly.
+- ✅ Make sure to configure Django’s email backend (EMAIL_BACKEND, EMAIL_HOST, etc.) in settings.py for this to work correctly.
 
 ---
 
 ## ⚙️ Installation and Setup
 
 1. 📥 Clone the repository:
-git clone https://github.com/yourusername/instgra.git
+git clone https://github.com/SAIKUAMR-2001/instgra.git
 cd instgra
 
 2. 🐍 Create and activate a virtual environment:
